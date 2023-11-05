@@ -16,3 +16,5 @@ For a more general understanding of the work that was done, please read the repo
 -Logistic Regression, SVC, and Decision Tree Classifiers
 
 -Context Vectors using BERT
+
+-SciKit-Learn and HuggingFace
